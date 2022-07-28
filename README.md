@@ -22,8 +22,7 @@ Part 4: Make a Recommendation
 
 
 
-Part 1: Prepare the Data
-
+##Part 1: Prepare the Data
 
 Read myopia.csv into a Pandas DataFrame.
 Remove the "MYOPIC" column from the dataset.
